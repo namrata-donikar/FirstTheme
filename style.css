@@ -1,0 +1,25 @@
+
+#footer{
+  text-align: center;
+}
+
+#sidebar-wrapper {
+  min-height: 100vh;
+}
+
+#sidebar-wrapper .sidebar-heading {
+  padding: 5px;
+  font-size: 5px;
+}
+
+#sidebar-wrapper .list-group {
+  width: 200px;
+}
+
+#dashboard p{
+  color: #ffffff;
+}
+#sidebar_buttons p{
+  color: #ffffff;
+}
+}
